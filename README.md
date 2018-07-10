@@ -8,7 +8,7 @@ In this age and time, every person, or business needs an online presence. This i
 
 ##Author & License
 
-This website uses Bootstrap and is 100% FREE under the [Creative Commons Attribution 3.0 License (CC BY 3.0)](http://creativecommons.org/licenses/by/3.0/)
+This website uses Bootstrap and is 100% FREE under the [Creative Commons Attribution 3.0 License (CC BY 3.0)](http://creativecommons.org/licenses/by/3.0/). You can copy, edit or modify the content for your own use. 
 
 #### Follow Abae Akili
 
